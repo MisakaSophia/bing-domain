@@ -29,4 +29,7 @@ payload:
   - DOMAIN-SUFFIX,explorebing.com
   - DOMAIN-SUFFIX,msxiaobing.com
   - DOMAIN-SUFFIX,working-bing-int.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-KEYWORD,bing
+  - DOMAIN-KEYWORD,copilot.microsoft.com
+  - DOMAIN-KEYWORD,copilot
